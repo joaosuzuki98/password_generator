@@ -175,6 +175,10 @@ cython_debug/
 .history
 .ionide
 
+# Others
+venv/
+__pycache__/
+
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
